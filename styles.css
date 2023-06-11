@@ -30,6 +30,12 @@
     padding: 16px;
 }
 
+.nav-link:hover{
+    text-decoration: underline;
+    color: white;
+transform: translateY(1px);
+}
+
 a {
     margin-right: 16px;
     text-decoration: none;
@@ -82,6 +88,11 @@ HEADER
     font-size: 16px;
     font-weight: 500;
     color: white;
+    cursor: pointer;
+}
+
+.head-btw:hover{
+    transform: translateY(1px);
 }
 
 /*
@@ -138,4 +149,60 @@ border-radius: 8px;
 
 .icon{
     color: red;
+}
+
+/*
+
+ABOUT
+
+*/
+
+/* #about{
+
+} */
+
+.about-content{
+display: flex;
+justify-content: space-around;
+}
+
+.about-content_text{
+    width: 50%;
+    height: 500px;
+    /* border: 2px solid lightblue; */
+    padding: 60px;
+}
+
+.about-content_head{
+    font-size: 40px;
+    width: 550px;
+    margin-bottom: 16px;
+}
+
+.about-content_para{
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.about-para_icon{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.about-btw{
+    border-radius: 8px;
+    padding: 8px ;
+    width: 120px;
+    background: rgb(230, 17, 21);
+    background: linear-gradient(90deg, rgba(230, 17, 21, 1) 35%, rgba(0, 44, 255, 1) 100%);
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    margin-top: 16px;
+}
+
+.about-btw:hover{
+    transform: translateY(1px);
 }
