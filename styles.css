@@ -11,12 +11,15 @@
     position: sticky;
     top: 0;
     left: 0;
-    padding: 8px;
+    padding: 12px;
     /* background: rgb(230, 17, 21);
     background: linear-gradient(90deg, rgba(230, 17, 21, 1) 35%, rgba(0, 44, 255, 1) 100%); */
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     /* margin-bottom: 40px; */
 }
 
@@ -27,14 +30,14 @@
 }
 
 .nav-img {
-    width: 160px;
+    width: 120px;
 }
 
 .nav-links {
     display: flex;
     list-style: none;
-    margin-top:16px ;
-    /* padding: 16px; */
+    margin-top: 12px;
+
 }
 
 .nav-link:hover {
@@ -62,7 +65,7 @@ HEADER
 #header {
     /* margin-bottom: 40px; */
     background-color: whitesmoke;
-    
+
 }
 
 .head-row {
@@ -80,9 +83,9 @@ HEADER
     margin-bottom: 20px;
 }
 
-.head-fig{
+.head-fig {
     margin-top: 20px;
-    margin-bottom: 20px;  
+    margin-bottom: 20px;
 }
 
 .head-content_one {
@@ -100,9 +103,12 @@ HEADER
     border-radius: 8px;
     padding: 8px;
     width: 120px;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-size: 16px;
     font-weight: 500;
     color: white;
@@ -119,14 +125,14 @@ CORE
 
 */
 
-#core{
+#core {
     /* background-color: lightblue; */
     /* margin-bottom: 40px;
     margin-top: 100px; */
 }
 
-.core-row{
-  padding: 50px 0 50px 0;
+.core-row {
+    padding: 50px 0 50px 0;
 }
 
 .sub-head {
@@ -180,12 +186,12 @@ ABOUT
 
 */
 
-#about{
+#about {
     /* margin-bottom: 40px; */
     /* background-color: #1a2a6c; */
 }
 
-.about-main{
+.about-main {
     padding: 50px 0 50px 0;
 }
 
@@ -222,9 +228,12 @@ ABOUT
     border-radius: 8px;
     padding: 8px;
     width: 120px;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-size: 16px;
     font-weight: 500;
     color: white;
@@ -279,10 +288,13 @@ FEATURES
 
 .features-child_box:hover {
     color: white;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .icons-box {
@@ -391,10 +403,13 @@ hr {
     border-radius: 8px;
     padding: 8px;
     width: 120px;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
     font-size: 16px;
     font-weight: 500;
     color: white;
@@ -444,20 +459,18 @@ hr {
     color: white;
 }
 
-#footer {
-
-}
+#footer {}
 
 .footer-row {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:rgb(63, 60, 60);
+    background-color: rgb(63, 60, 60);
 }
 
 .footer-img {
-    width: 300px;
+    width: 200px;
 }
 
 .footer-icons {
@@ -485,25 +498,25 @@ hr {
 
 .ft-icon {
     font-size: 24px;
-    color:white;
+    color: white;
 }
 
-.down-footer{
-background-color: rgb(17, 17, 17);
-width: 100%;
-height: 50px;
-display: flex;
-justify-content: space-between;
-padding: 16px;
+.down-footer {
+    background-color: rgb(17, 17, 17);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
 }
 
-.copy{
-    font-size:16px;
+.copy {
+    font-size: 16px;
     color: white;
     padding: 8px;
 }
 
-.down-link{
+.down-link {
     font-size: 16px;
 }
 
@@ -513,18 +526,18 @@ ABOUT-PAGE
 
 */
 
-.what-row{
+.what-row {
     height: 700px;
 }
 
-.what-parent_box{
-display: flex;
-justify-content: center;
-gap: 2rem;
-margin-bottom: 60px;
+.what-parent_box {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 60px;
 }
 
-.what-child_box{
+.what-child_box {
     width: 25%;
     height: 350px;
     /* border: 2px solid lightblue; */
@@ -536,17 +549,18 @@ margin-bottom: 60px;
 }
 
 
-.what-img{
+.what-img {
     height: 280px;
-   margin-bottom: 8px;
+    margin-bottom: 8px;
 }
 
-.what-para,.state{
+.what-para,
+.state {
     text-align: center;
 }
 
-.state{
-   margin-left: 10rem;
+.state {
+    margin-left: 10rem;
     width: 950px;
     font-style: italic;
     margin-top: 40px;
@@ -558,20 +572,20 @@ PRODUCT PAGE
 
 */
 
-#landing{
+#landing {
     height: 500px;
     background-color: whitesmoke;
-    
-}
-
-.landing-row{
-display: flex;
-justify-content: center;
-align-items: center;
 
 }
 
-.landing-content{
+.landing-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.landing-content {
     width: 50%;
     height: 350px;
     /* border: 2px solid lightblue; */
@@ -584,34 +598,37 @@ align-items: center;
     margin-top: 90px;
 }
 
-.landing-fig{
+.landing-fig {
     padding: 40px;
 }
 
-.landing-img{
+.landing-img {
     width: 560px;
-  
+
 }
 
-.landing-head_two{
+.landing-head_two {
     font-size: 40px;
     width: 500px;
 }
 
-.landing-btw{
+.landing-btw {
     border-radius: 8px;
     padding: 8px;
     width: 120px;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-size: 16px;
     font-weight: 500;
     color: white;
     cursor: pointer;
 }
 
-.landing-btw:hover{
+.landing-btw:hover {
     transform: translateY(1px);
 }
 
@@ -623,17 +640,17 @@ CART PAGE
 
 */
 
-#cart{
+#cart {
     height: 700px;
 }
 
-.cart-parent{
-display: flex;
-justify-content: center;
-gap: 2rem;
+.cart-parent {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
 }
 
-.cart-child{
+.cart-child {
     width: 25%;
     height: 400px;
     border-radius: 8px;
@@ -645,16 +662,16 @@ gap: 2rem;
     gap: .5rem;
 }
 
-.cart-img{
+.cart-img {
     width: 200px;
     margin-bottom: 20px;
 }
 
-.cart-new{
+.cart-new {
     color: #b21f1f;
 }
 
-.cart-para{
+.cart-para {
     font-size: 24px;
     font-weight: 500;
 }
@@ -666,58 +683,182 @@ OUTSTANDING
 
 */
 
-#Outstanding{
+#Outstanding {
     background-color: whitesmoke;
     padding: 40px;
     /* height: 400px; */
 }
 
-.out-parent{
+.out-parent {
     display: flex;
     justify-content: center;
     gap: 6rem;
     margin-top: 24px;
 }
 
-.out-std{
+.out-std {
     font-size: 24px;
     font-weight: 500;
     margin-bottom: 8px;
 }
 
-.out-para{
+.out-para {
     font-size: 32px;
     font-weight: bold;
     /* margin-bottom: 4px; */
 }
 
-.out-btw{
+.out-btw {
     margin-top: 24px;
     border-radius: 8px;
-    padding:8px;
+    padding: 8px;
     width: 180px;
-    background: #1a2a6c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-size: 16px;
     font-weight: 500;
     color: white;
-    cursor: pointer; 
+    cursor: pointer;
 }
 
-.out-btw:hover{
+.out-btw:hover {
     transform: translateY(1px);
 }
 
-.out-content{
+.out-content {
     padding: 40px;
 }
 
-#out-text{
+#out-text {
     padding: 24px;
 }
 
-.out-small{
+.out-small {
     font-size: 14px;
     font-style: italic;
+}
+
+
+/* 
+
+FORM 
+
+*/
+
+#forms {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    /* background-image: url(./asset/con-two.webp); */
+}
+
+.forms-row {
+    width: 50%;
+    height: 750px;
+    /* border: 2px solid lightblue; */
+    padding: 24px;
+    background-color: whitesmoke;
+    box-shadow: #8e92a4 1px 1px 1px 1px;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    margin-bottom: 24px;
+}
+
+label {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 1rem;
+    margin-bottom: .5rem;
+}
+
+input,
+select,
+textarea {
+    border-radius: 24px;
+    border: 2px solid lightblue;
+    padding: 12px;
+}
+
+.form-btw {
+    border-radius: 16px;
+    padding: 8px;
+    width: 180px;
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+}
+
+.form-btw:hover {
+    transform: translateY(1px);
+}
+
+.btw-forms {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*
+ SAFETY
+
+*/
+
+#safety {
+    background-color: whitesmoke;
+}
+
+.safety-row {
+    padding: 40px;
+}
+
+.safety-parent {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.safety-child {
+    width: 35%;
+    height: 500px;
+    /* border: 2px solid lightblue; */
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    margin-top: 16px;
+}
+
+.md-fig {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.md {
+    width: 150px;
+
+}
+
+.md-one {
+    width: 280px;
+}
+
+.md-text {
+    width: 350px;
+    margin-bottom: 8px;
 }
